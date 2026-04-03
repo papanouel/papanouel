@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Frederic Nouel
+## 👋 Hi, I'm Fred
 
 **Hands-on Tech Lead** with 20+ years building games, scalable systems, and AI-powered solutions. Shipped 45+ titles across mobile/console, led teams of up to 30, and currently building indie games in Tokyo.
 
@@ -27,7 +27,7 @@
 ### 🔭 Current Focus
 
 - 🎯 Godot 4 multiplayer architecture for TinyHoopers
-- 🤖 AI Agents & LLM integration in games and service
+- 🤖 AI Agents & LLM integration in games and services
 - ☁️ GCP serverless infrastructure
 
 ---
