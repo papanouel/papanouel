@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Fred
 
-**Hands-on Tech Lead** with 20+ years building games, scalable systems, and AI-powered solutions. Shipped 45+ titles across mobile/console, led teams of up to 30, and currently building indie games in Tokyo.
+**Hands-on Tech Lead** with 20+ years building games, scalable systems, and AI-powered solutions. Shipped 45+ titles across mobile/console leading teams of up to 30.
+Currently building an indie game while participating in various Hackathons, prototyping new game experiences using AI and voices.
 
 ---
 
