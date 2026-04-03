@@ -18,7 +18,7 @@ Currently building an indie game while participating in various Hackathons, prot
 ### 📊 Highlights
 
 - 🎮 Shipped **50+ games**
-- 🌠 Engineered an automated infrastructure for fetching, processing, and distributing NBA game stats via SNS (www.instagram.com/tinyhoopers)
+- 🌠 Built an infrastructure for processing, and distributing NBA game stats via SNS (www.instagram.com/tinyhoopers)
 - ☁️  Built GCP serverless pipelines serving **1M+** users
 - 🏆 **Milthon Award** winner for "Globulos Party"
 
