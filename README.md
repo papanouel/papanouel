@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fred
 
-**Hands-on Tech Lead** with 20+ years building games, scalable systems, and AI-powered solutions. Shipped 45+ titles across mobile/console leading teams of up to 30.
+**Hands-on Tech Lead** with 20+ years building games, scalable systems, and AI-powered solutions. Shipped and published several games leading teams of up to 30.
 Currently building an indie game while participating in various Hackathons, prototyping new game experiences using AI and voices.
 
 ---
@@ -17,7 +17,7 @@ Currently building an indie game while participating in various Hackathons, prot
 
 ### 📊 Highlights
 
-- 🎮 Shipped **50+ games**
+- 🎮 Shipped **45+ games** across mobile/console
 - 🌠 Built an infrastructure for processing, and distributing NBA game stats via SNS (www.instagram.com/tinyhoopers)
 - ☁️  Built GCP serverless pipelines serving **1M+** users
 - 🏆 **Milthon Award** winner for "Globulos Party"
