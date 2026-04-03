@@ -25,9 +25,9 @@
 ### 🔭 Current Focus
 
 - 🕹️ Currently building a basketball game named TinyHoopers (80K+ downloads in BETA)
-- 🎯 C++ Relay multiplayer server for TinyHoopers
+- 🎯 Building a C++ relay server for TinyHoopers multiplayer mode
+- 🛠️ Building a game video clip extractor by detecting higlights in videos
 - 🤖 AI Agents and voices integration in games and services
-- ☁️  GCP serverless infrastructure
 
 ---
 
