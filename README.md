@@ -16,17 +16,18 @@
 
 ### 📊 Highlights
 
-- 🎮 Currently building **TinyHoopers** (80K+ downloads)
-- ☁️ Built GCP serverless pipelines serving **50K+** followers
+- 🎮 Shipped **50+ games**
+- ☁️  Built GCP serverless pipelines serving **1M+** users
 - 🏆 **Milthon Award** winner for "Globulos Party"
 
 ---
 
 ### 🔭 Current Focus
 
-- 🎯 Godot 4 multiplayer architecture for TinyHoopers
-- 🤖 AI Agents & LLM integration in games and services
-- ☁️ GCP serverless infrastructure
+- 🕹️ Currently building a basketball game named TinyHoopers (80K+ downloads in BETA)
+- 🎯 C++ Relay multiplayer server for TinyHoopers
+- 🤖 AI Agents and voices integration in games and services
+- ☁️  GCP serverless infrastructure
 
 ---
 
