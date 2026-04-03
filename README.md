@@ -16,8 +16,6 @@
 
 ### 📊 Highlights
 
-- 📱 **45+ games** shipped across mobile & console
-- 👥 Led teams of up to **29 engineers**
 - 🎮 Currently building **TinyHoopers** (80K+ downloads)
 - ☁️ Built GCP serverless pipelines serving **50K+** followers
 - 🏆 **Milthon Award** winner for "Globulos Party"
